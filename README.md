@@ -12,8 +12,11 @@
 - branch 전략 표준 수립
 - 프로젝트 정책 설정
 
+## 학습 로드맵
+- Developer Roadmaps: [Roadmap.sh][5]
 
 [1]: https://www.data.go.kr/bbs/ntc/selectNoticeListView.do?pageIndex=1&originId=&atchFileId=&nttApiYn=N&searchCondition2=2&searchKeyword1=%EA%B3%B5%ED%86%B5%ED%91%9C%EC%A4%80%EC%9A%A9%EC%96%B4
 [2]: https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardList.do?bbsId=BBSMSTR_000000000045
 [3]: https://www.msit.go.kr/bbs/view.do?sCode=user&mPid=122&mId=123&bbsSeqNo=96&nttSeqNo=3179216
 [4]: https://www.sw.or.kr/site/sw/01/10105000000002017070309.jsp
+[5]: https://roadmap.sh/roadmaps
